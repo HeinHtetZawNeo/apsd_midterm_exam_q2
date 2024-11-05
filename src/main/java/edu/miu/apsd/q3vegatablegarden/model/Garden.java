@@ -17,16 +17,6 @@ public class Garden {
     private Integer id;
     private String name;
     private Double size;
-//
-//    @OneToMany
-//    @JoinColumn(name="garden_id")
-//    private List<Plant> plants;
-
-//    public Garden(String name, Double size, List<Plant> plants) {
-//        this.name = name;
-//        this.size = size;
-//        this.plants = plants;
-//    }
 
     public Garden(String name, Double size) {
         this.name = name;
