@@ -1,0 +1,14 @@
+The System is console based Application.
+The System store information about Garden and plants
+The System should able to Sort and Display the Garden and plant information
+The System should able to Create, Update, Delete and Retrieve the Garden and Plant Information
+The system should store the Garden information as follows:
+- Id
+- name
+- size
+The system should store the plant information as follows:
+- id
+-name
+-type
+-plantdate
+-gardenid
